@@ -1,0 +1,91 @@
+body {
+  background:#cb6843 ;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+}
+.topheading{ text-align:center;
+  font-family:monospace;
+   border-style:solid;
+     border-color="black";
+  
+
+
+}
+.laurynhillpic{ width:150px;
+  height:150px;
+  border-color: #D3945B;
+  border-style: double;
+   border-width: thick;
+  border-color: #D3945B;
+  border-style: double;
+ 
+  
+}
+.laurynhillword{ 
+  border-color: #D3945B;
+  border-style: double;
+  border-width: thick;
+  border-color: #D3945B;
+  border-style: double;
+
+}
+
+.dangelopic{ width:150px;
+  height:150px;
+  border-color:dim grey;
+  border-style: double;
+  border-width: thick;
+}
+  .dangeloword{
+    border-color: #D3945B;
+    border-style: double;
+    background-color: lightgray;
+    
+  }
+
+.jillscottpic{ width:150px;
+  height:150px;
+  border-color: navy;
+  border-style: double;
+  border-width: thick;
+
+
+}
+
+
+
+.jillscottword{
+  border-color: navy;
+  border-style: double;
+  background-color:#798bba;
+}
+
+
+.jillscott{border-color:navy;
+border-style:double;
+border-width:thick;
+height:150px;
+width:150px;
+}
+.erykahword{
+  border-color: #D3945B;
+  border-style: double;
+  background-color:#807131;
+  font-family:serif;
+}
+
+
+.erykahpic{border-color:#8f3e29;
+  border-style:double;
+  border-width:thick;
+  height:150px;
+  width:150px;
+}
+
+
+
+
